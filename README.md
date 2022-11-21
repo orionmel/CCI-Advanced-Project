@@ -99,9 +99,12 @@ https://github.com/orionmel/CCI-Advanced-Project/tree/main/Technical%20coding%20
 ## The future of my work :
 According to my research results and the user's feedback on the visual interactive installation, there are several principled suggestions for the improvement of this device in the future:
 <br>
-1. Add more introductions about my own experience. Considering that this work is more based on my own experience of eating disorders, more content can be included in the video or AR scans products in the installation in the future. Descriptive text is a good way to help visitors better understand the content of this topic
+<br>
+1.Add more introductions about my own experience. Considering that this work is more based on my own experience of eating disorders, more content can be included in the video or AR scans products in the installation in the future. Descriptive text is a good way to help visitors better understand the content of this topic
+<br>
 <br>
 2. Considering more age groups of visitors. Through interviews’ result, it is found that nearly 35% of the visitors think that the elements of horror should be reduced, and can adjust the appropriate improvements to the sound of the installation video and the shape of the mushroom woman in the future.
+<br>
 <br>
 3. Change and add some interaction methods. Some participants pointed out that the distance detect area is relatively small, and the sensing range and light irradiation range can be appropriately expanded, so give participants an intuitive feeling of which they could step into. At the same time, more technical equipment can be added, such as a full range of projection effects or VR equipment to replace the current display screen, allowing participants to have a more immersive audio-visual experience.
 
@@ -109,4 +112,23 @@ According to my research results and the user's feedback on the visual interacti
 https://github.com/orionmel/CCI-Advanced-Project/blob/main/Thesis_Kexin%20Mei/The%20Disciplined%20Mushroom.pdf
 
 ## Reference:
-
+https://www.youtube.com/watch?v=rHjxC9pL3Z8
+https://www.youtube.com/watch?v=3K5_6oySo1U
+https://www.youtube.com/watch?v=ak63NlUTsIc
+https://www.youtube.com/watch?v=hG9jfd-wcpg
+https://www.youtube.com/watch?v=MFcgw8BlnYo
+https://www.youtube.com/watch?v=b2KiCHQY31c
+https://www.youtube.com/watch?v=EVZpIEBnXf0
+https://www.youtube.com/watch?v=q_eK7koXnRM
+https://www.youtube.com/watch?v=5sTtdIm2Dd4
+http://doc.gold.ac.uk/compartsblog/index.php/work/digitised-dysmorphia/
+http://doc.gold.ac.uk/compartsblog/index.php/work/meshed/
+http://doc.gold.ac.uk/compartsblog/index.php/work/they-were-expected-to-see-what-stuff-she-was-made-of/
+https://baike.baidu.com/item/厌食症/2541811
+https://baijiahao.baidu.com/s?id=1701422509667339109&wfr=spider&for=pc
+https://www.bilibili.com/video/BV1Nh411R7gf/?vd_source=ea4ac3268c804177f2e3b9f032ff9e4d
+https://www.sixthtone.com/news/1007576/in-involuted-china%2C-eating-disorders-are-a-hidden-epidemic
+https://www.bilibili.com/video/BV1754y1V7nV/?
+https://mp.weixin.qq.com/s/zFq_Qq5kzYv_BN8ZEcdQig
+https://book.douban.com/review/12532105/
+https://www.artnews.com/art-in-america/features/mushrooms-as-metaphors-urbonas-studio-tj-shin-xiaojing-jan-1234614585/
