@@ -27,7 +27,7 @@ The whole work is a self- portraiture interactive art installation is based on m
 Mainly using unity AR technology, participants can scan the mushroom product label and view machine learning video and medical device 3D models, and using distance detection sensor and light sensor to switch two scene videos.
 
 ![](https://github.com/orionmel/CCI-Advanced-Project/blob/main/Description_Images/image1.png)
-![](https://github.com/orionmel/CCI-Advanced-Project/blob/main/Description_Images/image2.png)
+![](https://github.com/orionmel/CCI-Advanced-Project/blob/main/Description_Images/image2_.png)
 
 ## Design Journal:
 **The documentation recording blog : [https://github.com/orionmel/CCI-Advanced-Project/tree/main/Advanced%20Project%20%20Recording%20Journal]**
@@ -85,6 +85,13 @@ Unity AR source: https://github.com/orionmel/CCI-Advanced-Project/tree/main/Unit
 https://github.com/orionmel/CCI-Advanced-Project/tree/main/Unity_Project_Assets
 
 #### The technical coding source:
-https://github.com/orionmel/CCI-Advanced-Project/tree/main/Technical coding source
+https://github.com/orionmel/CCI-Advanced-Project/tree/main/Technical%20coding%20source
 
 ## The visual installation outcome:
+![](https://github.com/orionmel/CCI-Advanced-Project/blob/main/Description_Images/image6.png)
+![](https://github.com/orionmel/CCI-Advanced-Project/blob/main/Description_Images/image5.png)
+![](https://github.com/orionmel/CCI-Advanced-Project/blob/main/Description_Images/image4.png)
+![](https://github.com/orionmel/CCI-Advanced-Project/blob/main/Description_Images/image3.png)
+
+## Machine learning video outcome:
+![](https://github.com/orionmel/CCI-Advanced-Project/blob/main/Description_Images/image8.png)
