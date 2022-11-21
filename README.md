@@ -95,3 +95,18 @@ https://github.com/orionmel/CCI-Advanced-Project/tree/main/Technical%20coding%20
 
 ## Machine learning video outcome:
 ![](https://github.com/orionmel/CCI-Advanced-Project/blob/main/Description_Images/image8.png)
+
+## The future of my work :
+According to my research results and the user's feedback on the visual interactive installation, there are several principled suggestions for the improvement of this device in the future:
+<br>
+1. Add more introductions about my own experience. Considering that this work is more based on my own experience of eating disorders, more content can be included in the video or AR scans products in the installation in the future. Descriptive text is a good way to help visitors better understand the content of this topic
+<br>
+2. Considering more age groups of visitors. Through interviews’ result, it is found that nearly 35% of the visitors think that the elements of horror should be reduced, and can adjust the appropriate improvements to the sound of the installation video and the shape of the mushroom woman in the future.
+<br>
+3. Change and add some interaction methods. Some participants pointed out that the distance detect area is relatively small, and the sensing range and light irradiation range can be appropriately expanded, so give participants an intuitive feeling of which they could step into. At the same time, more technical equipment can be added, such as a full range of projection effects or VR equipment to replace the current display screen, allowing participants to have a more immersive audio-visual experience.
+
+#### More information :
+https://github.com/orionmel/CCI-Advanced-Project/blob/main/Thesis_Kexin%20Mei/The%20Disciplined%20Mushroom.pdf
+
+## Reference:
+
