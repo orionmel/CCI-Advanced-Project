@@ -10,13 +10,13 @@ Creative Computing Institute, University of the Arts London, London, United King
 
 ![](https://github.com/orionmel/CCI-Advanced-Project/blob/main/Description_Images/image7.png)
 
-**Github Link: https://github.com/orionmel/CCI-Advanced-Project**
+**Github Link: [https://github.com/orionmel/CCI-Advanced-Project]**
 
-**Video Link: https://vimeo.com/773360201**
+**Video Link: [https://vimeo.com/773360201]**
 
-**Essay Link: https://github.com/orionmel/CCI-Advanced-Project/blob/main/Thesis_Kexin Mei/The Disciplined Mushroom.pdf**
+**Essay Link: [https://github.com/orionmel/CCI-Advanced-Project/blob/main/Thesis_Kexin%20Mei/The%20Disciplined%20Mushroom.pdf]**
 
-**VQGAN + Clip: https://colab.research.google.com/drive/1GvcWpWBiuw21XH0xhuCmxfAcj9xDOkwM?usp=sharing**
+**VQGAN + Clip: [https://colab.research.google.com/drive/1GvcWpWBiuw21XH0xhuCmxfAcj9xDOkwM?usp=sharing]**
 
 ## Abstract:
 The Disciplined Mushroom is a visual interactive installation, which using Arduino, machine learning, unity AR and other technologies, I combined the image of mushrooms often in my own eating disorder experience and the anti-binary meaning of the mushroom itself, and used the mushroom woman to present the entanglement of food and body of women due to eating disorders. <br>
@@ -29,3 +29,62 @@ Mainly using unity AR technology, participants can scan the mushroom product lab
 ![](https://github.com/orionmel/CCI-Advanced-Project/blob/main/Description_Images/image1.png)
 ![](https://github.com/orionmel/CCI-Advanced-Project/blob/main/Description_Images/image2.png)
 
+## Design Journal:
+**The documentation recording blog : [https://github.com/orionmel/CCI-Advanced-Project/tree/main/Advanced%20Project%20%20Recording%20Journal]**
+
+#### Part1: Pre-research(June-July)
+· Decide project background and the artwork direction
+
+#### Part2: Start_Testing(July-August)
+1. Organize the dataset (mushrooms)
+2. Blender builds the female body
+3. Complete the fusion of the female body with the mushroom
+4. Display of final results
+5. Design the mushroom women style
+
+#### Part3: Technical Implementation(August- September) 
+1. Start designing the scene of the video and some meaning
+2. Add  character into scene 
+3. Blender adds video in shader editor
+4. Start designing unity AR
+
+#### Part4: Technical Outcome(September -October) 
+1. Discuss recent results with your mentor
+2. Unity AR tagging
+3. Test unity AR
+4. Display of final results
+4.1 Two-segment video
+4.2 Unity AR results
+
+#### Part5: Final Stage(October -November)
+1. Packaging AR product appearance
+2. Write distance sensing code as well as light bar effects
+3. Discuss recent results with your mentor
+4. Essay outline
+5. Installation Appearance building
+6. Clip videos
+
+## Additional Materials :
+#### The video source: 
+Video1: https://vimeo.com/773246677
+<br>
+Video2: https://vimeo.com/773251671
+
+#### The image dataset and machine learning video source:
+Machine learning video: https://vimeo.com/773258786
+<br>
+Original body images: https://github.com/orionmel/CCI-Advanced-Project/tree/main/Body_Image
+<br>
+Original mushroom images: https://drive.google.com/file/d/1qot-q8N4l0ofWZ9Am1Mpi4iBp7tEYFNu/view?usp=share_link
+
+#### The unity AR source: 
+Unity barcode images source: https://github.com/orionmel/CCI-Advanced-Project/tree/main/Unity_Barcode
+<br>
+Unity AR source: https://github.com/orionmel/CCI-Advanced-Project/tree/main/Unity_Iphone/Unity-iPhone.xcodeproj
+<br>
+https://github.com/orionmel/CCI-Advanced-Project/tree/main/Unity_Project_Assets
+
+#### The technical coding source:
+https://github.com/orionmel/CCI-Advanced-Project/tree/main/Technical coding source
+
+## The visual installation outcome:
