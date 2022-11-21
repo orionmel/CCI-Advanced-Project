@@ -8,9 +8,11 @@ Supervisor: Caroline Sinders <br>
 MSC Creative Computing Advanced Project <br>
 Creative Computing Institute, University of the Arts London, London, United Kingdom <br>
 
+![](https://github.com/orionmel/CCI-Advanced-Project/blob/main/Description_Images/image7.png)
+
 **Github Link: https://github.com/orionmel/CCI-Advanced-Project**
 
-Video Link: 
+**Video Link: https://vimeo.com/773360201**
 
 **Essay Link: https://github.com/orionmel/CCI-Advanced-Project/blob/main/Thesis_Kexin Mei/The Disciplined Mushroom.pdf**
 
@@ -24,4 +26,6 @@ The whole work is a self- portraiture interactive art installation is based on m
 ## Technology desciption:
 Mainly using unity AR technology, participants can scan the mushroom product label and view machine learning video and medical device 3D models, and using distance detection sensor and light sensor to switch two scene videos.
 
-![](https://github.com/orionmel/S3_Final_Artwork_Environment_Project/blob/main/img/page.png)
+![](https://github.com/orionmel/CCI-Advanced-Project/blob/main/Description_Images/image1.png)
+![](https://github.com/orionmel/CCI-Advanced-Project/blob/main/Description_Images/image2.png)
+
