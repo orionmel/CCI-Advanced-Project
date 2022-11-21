@@ -3,10 +3,10 @@
 ## The Disciplined Mushroom 
 **A visual interactive installation shows the woman’s eating disorder problem under patriarchal scrutiny**
 
-By Kexin Mei (k.mei0320201@arts.ac.uk)
-Supervisor: Caroline Sinders
-MSC Advanced Project
-Creative Computing Institute, University of the Arts London, London, United Kingdom
+By Kexin Mei (k.mei0320201@arts.ac.uk)<br>
+Supervisor: Caroline Sinders <br>
+MSC Creative Computing Advanced Project <br>
+Creative Computing Institute, University of the Arts London, London, United Kingdom <br>
 
 
 ### Journal of the work link [included coding] :
